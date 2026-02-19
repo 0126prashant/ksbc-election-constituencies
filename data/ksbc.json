@@ -1,0 +1,361 @@
+{
+  "election_name": "Karnataka State Bar Council Election 2026",
+  "districts": [
+    {
+      "district_name": "Bagalkote",
+      "talukas": [
+        { "taluka_name": "Badami", "constituencies": ["Badami Bar Association"] },
+        { "taluka_name": "Bagalkot", "constituencies": ["Bagalkot City Bar Association"] },
+        { "taluka_name": "Banahatti", "constituencies": ["Banahatti Bar Association"] },
+        { "taluka_name": "Bilagi", "constituencies": ["Bilagi Bar Association"] },
+        { "taluka_name": "Guledgudda", "constituencies": ["Guledgudda Bar Association"] },
+        { "taluka_name": "Hungund", "constituencies": ["Hungund Bar Association"] },
+        { "taluka_name": "Ilkal", "constituencies": ["Ilkal Bar Association"] },
+        { "taluka_name": "Jamkhandi", "constituencies": ["Jamkhandi Bar Association"] },
+        { "taluka_name": "Mudhol", "constituencies": ["Mudhol Bar Association"] }
+      ]
+    },
+    {
+      "district_name": "Ballari",
+      "talukas": [
+        { "taluka_name": "Ballari", "constituencies": ["Ballari City Bar Association"] },
+        { "taluka_name": "Kampli", "constituencies": ["Kampli Bar Association"] },
+        { "taluka_name": "Kurugodu", "constituencies": ["Kurugodu Bar Association"] },
+        { "taluka_name": "Sandur", "constituencies": ["Sandur Bar Association"] },
+        { "taluka_name": "Siruguppa", "constituencies": ["Siruguppa Bar Association"] }
+      ]
+    },
+    {
+      "district_name": "Belagavi",
+      "talukas": [
+        { "taluka_name": "Athani", "constituencies": ["Athani Bar Association"] },
+        { "taluka_name": "Bailhongal", "constituencies": ["Bailhongal Bar Association"] },
+        { "taluka_name": "Belagavi", "constituencies": ["Belagavi City Bar Association"] },
+        { "taluka_name": "Chikodi", "constituencies": ["Chikodi Bar Association"] },
+        { "taluka_name": "Gokak", "constituencies": ["Gokak Bar Association"] },
+        { "taluka_name": "Hukkeri", "constituencies": ["Hukkeri Bar Association"] },
+        { "taluka_name": "Kagawad", "constituencies": ["Kagawad Bar Association"] },
+        { "taluka_name": "Khanapur", "constituencies": ["Khanapur Bar Association"] },
+        { "taluka_name": "Kittur", "constituencies": ["Kittur Bar Association"] },
+        { "taluka_name": "Mudalagi", "constituencies": ["Mudalagi Bar Association"] },
+        { "taluka_name": "Nippani", "constituencies": ["Nippani Bar Association"] },
+        { "taluka_name": "Raibag", "constituencies": ["Raibag Bar Association"] },
+        { "taluka_name": "Ramdurg", "constituencies": ["Ramdurg Bar Association"] },
+        { "taluka_name": "Sankeshwar", "constituencies": ["Sankeshwar Bar Association"] },
+        { "taluka_name": "Saundatti", "constituencies": ["Saundatti Bar Association"] }
+      ]
+    },
+    {
+      "district_name": "Bengaluru Rural",
+      "talukas": [
+        { "taluka_name": "Anekal", "constituencies": ["Anekal Bar Association"] },
+        { "taluka_name": "Devanahalli", "constituencies": ["Devanahalli Bar Association"] },
+        { "taluka_name": "Doddaballapura", "constituencies": ["Doddaballapura Bar Association"] },
+        { "taluka_name": "Hoskote", "constituencies": ["Hoskote Bar Association"] },
+        { "taluka_name": "Nelamangala", "constituencies": ["Nelamangala Bar Association"] }
+      ]
+    },
+    {
+      "district_name": "Bengaluru Urban",
+      "talukas": [
+        {
+          "taluka_name": "Bengaluru City",
+          "constituencies": [
+            "City Civil Court Unit (Main)",
+            "Magistrate Court Unit",
+            "Mayo Hall Unit",
+            "High Court Unit (Ammchandra)"
+          ]
+        }
+      ]
+    },
+    {
+      "district_name": "Bidar",
+      "talukas": [
+        { "taluka_name": "Aurad", "constituencies": ["Aurad Bar Association"] },
+        { "taluka_name": "Basavakalyan", "constituencies": ["Basavakalyan Bar Association"] },
+        { "taluka_name": "Bhalki", "constituencies": ["Bhalki Bar Association"] },
+        { "taluka_name": "Bidar", "constituencies": ["Bidar City Bar Association"] },
+        { "taluka_name": "Humnabad", "constituencies": ["Humnabad Bar Association"] }
+      ]
+    },
+    {
+      "district_name": "Chamarajanagara",
+      "talukas": [
+        { "taluka_name": "Chamarajanagar", "constituencies": ["Chamarajanagar City Bar Association"] },
+        { "taluka_name": "Gundlupet", "constituencies": ["Gundlupet Bar Association"] },
+        { "taluka_name": "Kollegal", "constituencies": ["Kollegal Bar Association"] },
+        { "taluka_name": "Yelandur", "constituencies": ["Yelandur Bar Association"] }
+      ]
+    },
+    {
+      "district_name": "Chikkaballapura",
+      "talukas": [
+        { "taluka_name": "Bagepalli", "constituencies": ["Bagepalli Bar Association"] },
+        { "taluka_name": "Chikkaballapura", "constituencies": ["Chikkaballapura City Bar Association"] },
+        { "taluka_name": "Chintamani", "constituencies": ["Chintamani Bar Association"] },
+        { "taluka_name": "Gowribidanur", "constituencies": ["Gowribidanur Bar Association"] },
+        { "taluka_name": "Gudibande", "constituencies": ["Gudibande Bar Association"] },
+        { "taluka_name": "Sidlaghatta", "constituencies": ["Sidlaghatta Bar Association"] }
+      ]
+    },
+    {
+      "district_name": "Chikkamagaluru",
+      "talukas": [
+        { "taluka_name": "Birur", "constituencies": ["Birur Bar Association"] },
+        { "taluka_name": "Chikkamagaluru", "constituencies": ["Chikkamagaluru City Bar Association"] },
+        { "taluka_name": "Kadur", "constituencies": ["Kadur Bar Association"] },
+        { "taluka_name": "Koppa", "constituencies": ["Koppa Bar Association"] },
+        { "taluka_name": "Mudigere", "constituencies": ["Mudigere Bar Association"] },
+        { "taluka_name": "N.R. Pura", "constituencies": ["N.R. Pura Bar Association"] },
+        { "taluka_name": "Sringeri", "constituencies": ["Sringeri Bar Association"] },
+        { "taluka_name": "Tarikere", "constituencies": ["Tarikere Bar Association"] }
+      ]
+    },
+    {
+      "district_name": "Chitradurga",
+      "talukas": [
+        { "taluka_name": "Challakere", "constituencies": ["Challakere Bar Association"] },
+        { "taluka_name": "Chitradurga", "constituencies": ["Chitradurga City Bar Association"] },
+        { "taluka_name": "Hiriyur", "constituencies": ["Hiriyur Bar Association"] },
+        { "taluka_name": "Holalkere", "constituencies": ["Holalkere Bar Association"] },
+        { "taluka_name": "Hosadurga", "constituencies": ["Hosadurga Bar Association"] },
+        { "taluka_name": "Molakalmuru", "constituencies": ["Molakalmuru Bar Association"] }
+      ]
+    },
+    {
+      "district_name": "Dakshina Kannada",
+      "talukas": [
+        { "taluka_name": "Bantwal", "constituencies": ["Bantwal Bar Association"] },
+        { "taluka_name": "Belthangady", "constituencies": ["Belthangady Bar Association"] },
+        { "taluka_name": "Kadaba", "constituencies": ["Kadaba Bar Association"] },
+        { "taluka_name": "Mangaluru", "constituencies": ["Mangaluru City Bar Association"] },
+        { "taluka_name": "Moodbidri", "constituencies": ["Moodbidri Bar Association"] },
+        { "taluka_name": "Puttur", "constituencies": ["Puttur Bar Association"] },
+        { "taluka_name": "Sullia", "constituencies": ["Sullia Bar Association"] }
+      ]
+    },
+    {
+      "district_name": "Davanagere",
+      "talukas": [
+        { "taluka_name": "Channagiri", "constituencies": ["Channagiri Bar Association"] },
+        { "taluka_name": "Davanagere", "constituencies": ["Davanagere City Bar Association"] },
+        { "taluka_name": "Harihara", "constituencies": ["Harihara Bar Association"] },
+        { "taluka_name": "Honnali", "constituencies": ["Honnali Bar Association"] },
+        { "taluka_name": "Jagalur", "constituencies": ["Jagalur Bar Association"] },
+        { "taluka_name": "Nyamathi", "constituencies": ["Nyamathi Bar Association"] }
+      ]
+    },
+    {
+      "district_name": "Dharwad",
+      "talukas": [
+        { "taluka_name": "Dharwad", "constituencies": ["Dharwad City Bar Association", "High Court Bench Unit (Dharwad)"] },
+        { "taluka_name": "Hubballi", "constituencies": ["Hubballi Bar Association"] },
+        { "taluka_name": "Kalghatgi", "constituencies": ["Kalghatgi Bar Association"] },
+        { "taluka_name": "Kundgol", "constituencies": ["Kundgol Bar Association"] },
+        { "taluka_name": "Navalgund", "constituencies": ["Navalgund Bar Association"] }
+      ]
+    },
+    {
+      "district_name": "Gadag",
+      "talukas": [
+        { "taluka_name": "Gadag", "constituencies": ["Gadag City Bar Association"] },
+        { "taluka_name": "Gajendragad", "constituencies": ["Gajendragad Bar Association"] },
+        { "taluka_name": "Mundargi", "constituencies": ["Mundargi Bar Association"] },
+        { "taluka_name": "Nargund", "constituencies": ["Nargund Bar Association"] },
+        { "taluka_name": "Ron", "constituencies": ["Ron Bar Association"] }
+      ]
+    },
+    {
+      "district_name": "Hassan",
+      "talukas": [
+        { "taluka_name": "Alur", "constituencies": ["Alur Bar Association"] },
+        { "taluka_name": "Arasikere", "constituencies": ["Arasikere Bar Association"] },
+        { "taluka_name": "Arkalgud", "constituencies": ["Arkalgud Bar Association"] },
+        { "taluka_name": "Belur", "constituencies": ["Belur Bar Association"] },
+        { "taluka_name": "Channarayapatna", "constituencies": ["Channarayapatna Bar Association"] },
+        { "taluka_name": "Hassan", "constituencies": ["Hassan City Bar Association"] },
+        { "taluka_name": "Holenarsipura", "constituencies": ["Holenarsipura Bar Association"] },
+        { "taluka_name": "Sakleshpur", "constituencies": ["Sakleshpur Bar Association"] }
+      ]
+    },
+    {
+      "district_name": "Haveri",
+      "talukas": [
+        { "taluka_name": "Byadgi", "constituencies": ["Byadgi Bar Association"] },
+        { "taluka_name": "Hangal", "constituencies": ["Hangal Bar Association"] },
+        { "taluka_name": "Haveri", "constituencies": ["Haveri City Bar Association"] },
+        { "taluka_name": "Hirekerur", "constituencies": ["Hirekerur Bar Association"] },
+        { "taluka_name": "Ranebennur", "constituencies": ["Ranebennur Bar Association"] },
+        { "taluka_name": "Savanur", "constituencies": ["Savanur Bar Association"] },
+        { "taluka_name": "Shiggaon", "constituencies": ["Shiggaon Bar Association"] }
+      ]
+    },
+    {
+      "district_name": "Kalaburagi",
+      "talukas": [
+        { "taluka_name": "Kalaburagi", "constituencies": ["Kalaburagi City Bar Association", "High Court Bench Unit (Kalaburagi)"] },
+        { "taluka_name": "Afzalpur", "constituencies": ["Afzalpur Bar Association"] },
+        { "taluka_name": "Aland", "constituencies": ["Aland Bar Association"] },
+        { "taluka_name": "Chincholi", "constituencies": ["Chincholi Bar Association"] },
+        { "taluka_name": "Chittapur", "constituencies": ["Chittapur Bar Association"] },
+        { "taluka_name": "Jewargi", "constituencies": ["Jewargi Bar Association"] },
+        { "taluka_name": "Sedam", "constituencies": ["Sedam Bar Association"] },
+        { "taluka_name": "Shahabad", "constituencies": ["Shahabad Bar Association"] }
+      ]
+    },
+    {
+      "district_name": "Kodagu",
+      "talukas": [
+        { "taluka_name": "Madikeri", "constituencies": ["Madikeri Bar Association"] },
+        { "taluka_name": "Somwarpet", "constituencies": ["Somwarpet Bar Association"] },
+        { "taluka_name": "Virajpet", "constituencies": ["Virajpet Bar Association"] }
+      ]
+    },
+    {
+      "district_name": "Kolar",
+      "talukas": [
+        { "taluka_name": "Bangarpet", "constituencies": ["Bangarpet Bar Association"] },
+        { "taluka_name": "K.G.F", "constituencies": ["K.G.F Bar Association"] },
+        { "taluka_name": "Kolar", "constituencies": ["Kolar City Bar Association"] },
+        { "taluka_name": "Malur", "constituencies": ["Malur Bar Association"] },
+        { "taluka_name": "Mulbagal", "constituencies": ["Mulbagal Bar Association"] },
+        { "taluka_name": "Srinivaspura", "constituencies": ["Srinivaspura Bar Association"] }
+      ]
+    },
+    {
+      "district_name": "Koppal",
+      "talukas": [
+        { "taluka_name": "Gangavathi", "constituencies": ["Gangavathi Bar Association"] },
+        { "taluka_name": "Koppal", "constituencies": ["Koppal City Bar Association"] },
+        { "taluka_name": "Kushtagi", "constituencies": ["Kushtagi Bar Association"] },
+        { "taluka_name": "Yelburga", "constituencies": ["Yelburga Bar Association"] }
+      ]
+    },
+    {
+      "district_name": "Mandya",
+      "talukas": [
+        { "taluka_name": "K.R. Pet", "constituencies": ["K.R. Pet Bar Association"] },
+        { "taluka_name": "Maddur", "constituencies": ["Maddur Bar Association"] },
+        { "taluka_name": "Malavalli", "constituencies": ["Malavalli Bar Association"] },
+        { "taluka_name": "Mandya", "constituencies": ["Mandya City Bar Association"] },
+        { "taluka_name": "Nagamangala", "constituencies": ["Nagamangala Bar Association"] },
+        { "taluka_name": "Pandavapura", "constituencies": ["Pandavapura Bar Association"] },
+        { "taluka_name": "Srirangapatna", "constituencies": ["Srirangapatna Bar Association"] }
+      ]
+    },
+    {
+      "district_name": "Mysuru",
+      "talukas": [
+        { "taluka_name": "H.D. Kote", "constituencies": ["H.D. Kote Bar Association"] },
+        { "taluka_name": "Hunsur", "constituencies": ["Hunsur Bar Association"] },
+        { "taluka_name": "K.R. Nagara", "constituencies": ["K.R. Nagara Bar Association"] },
+        { "taluka_name": "Mysuru", "constituencies": ["Mysuru City Bar Association"] },
+        { "taluka_name": "Nanjangud", "constituencies": ["Nanjangud Bar Association"] },
+        { "taluka_name": "Periyapatna", "constituencies": ["Periyapatna Bar Association"] },
+        { "taluka_name": "Saligrama", "constituencies": ["Saligrama Bar Association"] },
+        { "taluka_name": "T. Narasipura", "constituencies": ["T. Narasipura Bar Association"] }
+      ]
+    },
+    {
+      "district_name": "Raichur",
+      "talukas": [
+        { "taluka_name": "Deodurga", "constituencies": ["Deodurga Bar Association"] },
+        { "taluka_name": "Lingasugur", "constituencies": ["Lingasugur Bar Association"] },
+        { "taluka_name": "Manvi", "constituencies": ["Manvi Bar Association"] },
+        { "taluka_name": "Raichur", "constituencies": ["Raichur City Bar Association"] },
+        { "taluka_name": "Sindhanur", "constituencies": ["Sindhanur Bar Association"] }
+      ]
+    },
+    {
+      "district_name": "Ramanagara",
+      "talukas": [
+        { "taluka_name": "Channapatna", "constituencies": ["Channapatna Bar Association"] },
+        { "taluka_name": "Kanakapura", "constituencies": ["Kanakapura Bar Association"] },
+        { "taluka_name": "Magadi", "constituencies": ["Magadi Bar Association"] },
+        { "taluka_name": "Ramanagara", "constituencies": ["Ramanagara City Bar Association"] }
+      ]
+    },
+    {
+      "district_name": "Shivamogga",
+      "talukas": [
+        { "taluka_name": "Bhadravathi", "constituencies": ["Bhadravathi Bar Association"] },
+        { "taluka_name": "Hosanagara", "constituencies": ["Hosanagara Bar Association"] },
+        { "taluka_name": "Sagar", "constituencies": ["Sagar Bar Association"] },
+        { "taluka_name": "Shikaripura", "constituencies": ["Shikaripura Bar Association"] },
+        { "taluka_name": "Shivamogga", "constituencies": ["Shivamogga City Bar Association"] },
+        { "taluka_name": "Soraba", "constituencies": ["Soraba Bar Association"] },
+        { "taluka_name": "Thirthahalli", "constituencies": ["Thirthahalli Bar Association"] }
+      ]
+    },
+    {
+      "district_name": "Tumakuru",
+      "talukas": [
+        { "taluka_name": "Chikkanayakanahalli", "constituencies": ["Chikkanayakanahalli Bar Association"] },
+        { "taluka_name": "Gubbi", "constituencies": ["Gubbi Bar Association"] },
+        { "taluka_name": "Koratagere", "constituencies": ["Koratagere Bar Association"] },
+        { "taluka_name": "Kunigal", "constituencies": ["Kunigal Bar Association"] },
+        { "taluka_name": "Madhugiri", "constituencies": ["Madhugiri Bar Association"] },
+        { "taluka_name": "Pavagada", "constituencies": ["Pavagada Bar Association"] },
+        { "taluka_name": "Sira", "constituencies": ["Sira Bar Association"] },
+        { "taluka_name": "Tiptur", "constituencies": ["Tiptur Bar Association"] },
+        { "taluka_name": "Tumakuru", "constituencies": ["Tumakuru City Bar Association"] },
+        { "taluka_name": "Turuvekere", "constituencies": ["Turuvekere Bar Association"] }
+      ]
+    },
+    {
+      "district_name": "Udupi",
+      "talukas": [
+        { "taluka_name": "Brahmavara", "constituencies": ["Brahmavara Bar Association"] },
+        { "taluka_name": "Karkala", "constituencies": ["Karkala Bar Association"] },
+        { "taluka_name": "Kundapura", "constituencies": ["Kundapura Bar Association"] },
+        { "taluka_name": "Udupi", "constituencies": ["Udupi City Bar Association"] }
+      ]
+    },
+    {
+      "district_name": "Uttara Kannada",
+      "talukas": [
+        { "taluka_name": "Ankola", "constituencies": ["Ankola Bar Association"] },
+        { "taluka_name": "Bhatkal", "constituencies": ["Bhatkal Bar Association"] },
+        { "taluka_name": "Dandeli", "constituencies": ["Dandeli Bar Association"] },
+        { "taluka_name": "Haliyal", "constituencies": ["Haliyal Bar Association"] },
+        { "taluka_name": "Honnavar", "constituencies": ["Honnavar Bar Association"] },
+        { "taluka_name": "Karwar", "constituencies": ["Karwar Bar Association"] },
+        { "taluka_name": "Kumta", "constituencies": ["Kumta Bar Association"] },
+        { "taluka_name": "Mundgod", "constituencies": ["Mundgod Bar Association"] },
+        { "taluka_name": "Siddapur", "constituencies": ["Siddapur Bar Association"] },
+        { "taluka_name": "Sirsi", "constituencies": ["Sirsi Bar Association"] },
+        { "taluka_name": "Yellapur", "constituencies": ["Yellapur Bar Association"] }
+      ]
+    },
+    {
+      "district_name": "Vijayanagara",
+      "talukas": [
+        { "taluka_name": "Hagaribommanahalli", "constituencies": ["Hagaribommanahalli Bar Association"] },
+        { "taluka_name": "Harapanahalli", "constituencies": ["Harapanahalli Bar Association"] },
+        { "taluka_name": "Hoovina Hadagali", "constituencies": ["Hoovina Hadagali Bar Association"] },
+        { "taluka_name": "Hospet", "constituencies": ["Hospet Bar Association"] },
+        { "taluka_name": "Kottur", "constituencies": ["Kottur Bar Association"] },
+        { "taluka_name": "Kudligi", "constituencies": ["Kudligi Bar Association"] }
+      ]
+    },
+    {
+      "district_name": "Vijayapura",
+      "talukas": [
+        { "taluka_name": "Basavana Bagewadi", "constituencies": ["Basavana Bagewadi Bar Association"] },
+        { "taluka_name": "Indi", "constituencies": ["Indi Bar Association"] },
+        { "taluka_name": "Muddebihal", "constituencies": ["Muddebihal Bar Association"] },
+        { "taluka_name": "Sindagi", "constituencies": ["Sindagi Bar Association"] },
+        { "taluka_name": "Vijayapura", "constituencies": ["Vijayapura City Bar Association"] }
+      ]
+    },
+    {
+      "district_name": "Yadgir",
+      "talukas": [
+        { "taluka_name": "Shahapur", "constituencies": ["Shahapur Bar Association"] },
+        { "taluka_name": "Shorapur", "constituencies": ["Shorapur Bar Association"] },
+        { "taluka_name": "Yadgir", "constituencies": ["Yadgir City Bar Association"] }
+      ]
+    }
+  ]
+}
